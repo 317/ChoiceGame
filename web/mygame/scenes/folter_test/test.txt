@@ -1,0 +1,5 @@
+*comment test
+
+This is the last scene!  The game TEST is over!
+
+*ending
